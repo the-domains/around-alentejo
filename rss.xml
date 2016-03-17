@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Around Alentejo]]></title>
         <description><![CDATA[Around Alentejo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/around-alentejo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 19:23:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 07:48:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/around-alentejo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/7/11/1405087520193/9e2955f7-6919-4eb0-98ce-583528f53fea-2060x1236.jpeg?w=1300&q=55&auto=format&usm=12&fit=max&s=830827ddb6bee88d0b73f4bd92b8ee65">]]></description>
+            <link>https://thegrid.ai/around-alentejo/7e5be0e4-b6de-4002-ae50-29e930a1f184/index.html</link>
+            <guid isPermaLink="false">7e5be0e4-b6de-4002-ae50-29e930a1f184</guid>
+            <pubDate>Thu, 17 Mar 2016 07:48:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b7c7485-97b0-4adf-867a-be149596617f.jpg">]]></description>
-            <link>undefined70d90e97-dafb-495e-91d4-86ee2e4f3dc6/index.html</link>
+            <link>https://thegrid.ai/around-alentejo/70d90e97-dafb-495e-91d4-86ee2e4f3dc6/index.html</link>
             <guid isPermaLink="false">70d90e97-dafb-495e-91d4-86ee2e4f3dc6</guid>
             <pubDate>Mon, 22 Feb 2016 19:22:58 GMT</pubDate>
         </item>
